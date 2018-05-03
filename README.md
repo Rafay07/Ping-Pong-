@@ -8,7 +8,8 @@ Game uses OOP concepts
 SFML/Graphics library for Game Engine or Graphics
 
 Known issues:
-Keys can be sticky.
+- Ball moves on the same path on each strike.
+- Keys can be sticky.
 
 K17-3746
 Muhammad Rafay
